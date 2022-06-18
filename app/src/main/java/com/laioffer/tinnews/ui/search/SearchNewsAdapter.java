@@ -1,4 +1,4 @@
-package com.laioffer.tinnews.ui;
+package com.laioffer.tinnews.ui.search;
 
 import android.view.LayoutInflater;
 import android.view.View;

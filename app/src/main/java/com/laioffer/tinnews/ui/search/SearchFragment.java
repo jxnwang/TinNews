@@ -14,11 +14,9 @@ import android.view.ViewGroup;
 import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.GridLayoutManager;
 
-import com.laioffer.tinnews.R;
 import com.laioffer.tinnews.databinding.FragmentSearchBinding;
 import com.laioffer.tinnews.repository.NewsRepository;
 import com.laioffer.tinnews.repository.NewsViewModelFactory;
-import com.laioffer.tinnews.ui.SearchNewsAdapter;
 
 
 public class SearchFragment extends Fragment {
